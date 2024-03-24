@@ -1,0 +1,248 @@
+repo_name: Haribhusal/slds
+report_id: 86917efee7472b632e691488775427a7
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-24T16:40:58+00:00'
+requested_by: Haribhusal
+provider: github
+branch: master
+detected_tools_count: 18
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Haribhusal/slds
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Haribhusal/slds
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: Recharts
+  description: Redefined chart library built with React and D3
+  website_url: http://recharts.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/5608/13690587.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Haribhusal/slds
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: localforage
+  description: Offline storage, improved
+  package_url: https://www.npmjs.com/localforage
+  version: 1.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: react-app-rewired
+  description: Tweak the create-react-app webpack config
+  package_url: https://www.npmjs.com/react-app-rewired
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18317/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Haribhusal/slds/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Haribhusal
+  last_updated_on: 2023-02-16 21:31:09.000000000 Z
